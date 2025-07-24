@@ -28,13 +28,12 @@
 - 🎓 Graduado en Ingeniería Informática por la Universidad Agraria de La Habana.
 - 💼 Con experiencia en desarrollo backend y frontend, especializado en aplicaciones web escalables y seguras.
 - 🔍 Apasionado por las buenas prácticas, el diseño limpio y la arquitectura modular.
-- 🌱 Actualmente profundizando en pruebas de seguridad, automatización QA y buenas prácticas con NestJS y Jest.
 
 ---
 
 ## 🧪 Actualmente enfocado en:
 
-- Arquitectura Clean Code con NestJS
+- Arquitectura Clean Code
 - GraphQL + REST API combinadas
 - Seguridad y pruebas con Jest
 - Automatización de despliegues (CI/CD)
