@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Jose Alejandro Sanz Cuesta</h1>
-<h3 align="center">Ingeniero Informático | Full-Stack Developer | Apasionado por el código limpio y las soluciones escalables</h3>
+<h3 align="center">Ingeniero de Software | Full-Stack Developer | Apasionado por el código limpio y las soluciones escalables</h3>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge)
