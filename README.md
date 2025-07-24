@@ -1,16 +1,55 @@
-## Hi there 👋
+# 👋 Hola, soy Jose Alejandro Sanz Cuesta
 
-<!--
-**jasanzdev/jasanzdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Desarrollador Full-Stack apasionado por crear aplicaciones escalables, eficientes y con una excelente experiencia de usuario.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologías que domino
+
+### 🌐 Frontend
+- **HTML5** & **CSS3**
+- **React.js** – Construyendo interfaces dinámicas y reactivas
+- **TypeScript** – Tipado estático para mayor seguridad y escalabilidad
+
+### ⚙️ Backend
+- **Node.js** – Entorno de ejecución potente y no bloqueante
+- **Express.js** – Framework minimalista para APIs REST
+- **NestJS** – Arquitectura modular y orientada a servicios (basado en TypeScript)
+- **PHP** – Lenguaje versátil para desarrollo web
+- **Laravel** – Framework elegante y productivo
+- **Symfony** – Framework robusto y escalable
+
+### 💾 Bases de Datos
+- **MySQL** – Relacional, confiable y ampliamente usado
+- **PostgreSQL** – Potente y con soporte avanzado para datos complejos
+- **MongoDB** – NoSQL, flexible y orientado a documentos
+
+### 🔧 Otros
+- JavaScript (ES6+)
+- Git & GitHub
+- RESTful APIs
+- GraphQl APIs
+- Pruebas unitarias e integración
+- Docker 
+
+---
+
+## 🚀 ¿Qué me apasiona?
+- Construir soluciones reales con código limpio y mantenible
+- Aprender nuevas tecnologías y mejorar continuamente
+- Trabajar en equipo para resolver problemas complejos
+- Aplicar buenas prácticas de desarrollo (SOLID, DRY, KISS)
+
+---
+
+## 📫 ¡Conectemos!
+¿Tienes un proyecto interesante o quieres colaborar?  
+No dudes en contactarme:
+
+- 📧 sanz_cuesta94@hotmail.com
+- 💼 www.linkedin.com/in/jose-alejandro-sanz-cuesta
+  
+---
+
+✨ Siempre en constante evolución...  
+💻 Code | 🧠 Learn | 🚀 Build
